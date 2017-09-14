@@ -1,0 +1,25 @@
+<mjml>
+	<mj-head>
+		<mj-title>My Email Title</mj-title>
+	</mj-head>
+	<mj-body>
+		<mj-container>
+
+			<mj-section>
+				<mj-column><mj-text><h1>Welcome to my email</h1></mj-text></mj-column>
+			</mj-section>
+
+			<mj-section>
+				<mj-column>
+					<mj-image width="250" src="http://unsplash.it/250" />
+					<mj-text>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </mj-text>
+				</mj-column>
+				<mj-column>
+					<mj-image width="250" src="http://unsplash.it/250" />
+					<mj-text>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</mj-text>
+				</mj-column>
+			</mj-section>
+
+		</mj-container>
+	</mj-body>
+</mjml>

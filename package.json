@@ -1,0 +1,17 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "description": "My awesome newsletter",
+  "main": "index.mjml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/ObjectiveSubject/os-newsletter-starter",
+  "author": "Objective Subject",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mjml": "^2.2.0",
+    "mjml": "^3.3.3"
+  }
+}
